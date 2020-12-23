@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/frank-norris/mcteague</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-12-23T22:05:10Z</dc:date>
+		<meta property="dcterms:modified">2020-12-23T22:05:10Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -58,18 +58,18 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008117510</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">The descent of a San Francisco dentist and his wife into avarice, obsession, and violence.</dc:description>
+		<dc:description id="description">A San Francisco dentist and his wife descend into avarice, obsession, and violence.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In San Francisco towards the end of the nineteenth century, McTeague is an enormously strong but dim-witted former miner now working as a dentist. He falls in love with Trina, one of his patients, and shortly after they become engaged she wins a large sum in a lottery. All is well until McTeague is betrayed and they fall into a life of increasing poverty and degradation.&lt;/p&gt;
-			&lt;p&gt;This novel is often presented as an example of American naturalism where the behavior and experience of characters are constrained by “nature,” both their own heredity and the broader social environment.&lt;/p&gt;
-			&lt;p&gt;McTeague was published in 1899 as the first of &lt;a href="https://standardebooks.org/ebooks/frank-norris"&gt;Norris&lt;/a&gt;’s major novels. He died at the age of thirty-two in 1902.&lt;/p&gt;
+			&lt;p&gt;McTeague is an enormously strong but dim-witted former miner now working as a dentist in San Francisco towards the end of the nineteenth century. He falls in love with Trina, one of his patients, and shortly after their engagement she wins a large sum in a lottery. All is well until McTeague is betrayed and they fall into a life of increasing poverty and degradation.&lt;/p&gt;
+			&lt;p&gt;This novel is often presented as an example of American naturalism where the behavior and experience of characters are constrained by “nature”—both their own heredity nature, and the broader social environment.&lt;/p&gt;
+			&lt;p&gt;McTeague was published in 1899 as the first of &lt;a href="https://standardebooks.org/ebooks/frank-norris"&gt;Norris’s&lt;/a&gt; major novels.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/165</dc:source>
 		<dc:source>https://archive.org/details/mcteaguestorysan00norrrich</dc:source>
 		<meta property="se:production-notes">The transcription uses all-caps to represent emphasis, so keep an eye open for any emphasized "I" instances that didn't get marked up correctly. The scan used in this production is of a copy that is warmly inscribed by Norris for Seymour Waterhouse, the manager of the Big Dipper mine in the Sierra Nevada mountains (and according to some online sources a college roommate of Norris). The Big Dipper is the location of some of the novel's action, and also where Norris stayed while writing parts of this story. There are also some pencil notes in the margin that identify some unnamed characters as Norris and Waterhouse.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">115961</meta>
+		<meta property="se:reading-ease.flesch">73.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/McTeague</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frank-norris_mcteague</meta>
 		<dc:creator id="author">Frank Norris</dc:creator>
@@ -97,6 +97,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
