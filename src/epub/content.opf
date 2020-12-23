@@ -60,9 +60,9 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The descent of a San Francisco dentist and his wife into avarice, obsession, and violence.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p>In San Francisco towards the end of the nineteenth century, McTeague is an enormously strong but dim-witted former miner now working as a dentist. He falls in love with Trina, one of his patients, and shortly after they become engaged she wins a large sum in a lottery. All is well until McTeague is betrayed and they fall into a life of increasing poverty and degradation.</p>
-			<p>This novel is often presented as an example of American naturalism where the behavior and experience of characters are constrained by “nature,” both their own heredity and the broader social environment.</p>
-			<p>McTeague was published in 1899 as the first of <a href="https://standardebooks.org/ebooks/frank-norris">Norris</a>’s major novels. He died at the age of thirty-two in 1902.</p>
+			&lt;p&gt;In San Francisco towards the end of the nineteenth century, McTeague is an enormously strong but dim-witted former miner now working as a dentist. He falls in love with Trina, one of his patients, and shortly after they become engaged she wins a large sum in a lottery. All is well until McTeague is betrayed and they fall into a life of increasing poverty and degradation.&lt;/p&gt;
+			&lt;p&gt;This novel is often presented as an example of American naturalism where the behavior and experience of characters are constrained by “nature,” both their own heredity and the broader social environment.&lt;/p&gt;
+			&lt;p&gt;McTeague was published in 1899 as the first of &lt;a href="https://standardebooks.org/ebooks/frank-norris"&gt;Norris&lt;/a&gt;’s major novels. He died at the age of thirty-two in 1902.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/165</dc:source>
