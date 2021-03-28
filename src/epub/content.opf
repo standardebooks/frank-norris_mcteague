@@ -76,12 +76,12 @@
 		<meta property="file-as" refines="#author">Norris, Frank</meta>
 		<meta property="se:name.person.full-name" refines="#author">Benjamin Franklin Norris Jr.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Frank_Norris</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80032817</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80032817</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Ferdinand von Wright</dc:contributor>
 		<meta property="file-as" refines="#artist">Wright, Ferdinand von</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ferdinand_von_Wright</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n83058265</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n83058265</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Pauline J. Iacono</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Iacono, Pauline J.</meta>
