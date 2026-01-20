@@ -68,7 +68,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/165</dc:source>
 		<dc:source>https://archive.org/details/mcteaguestorysan00norrrich</dc:source>
 		<meta property="se:production-notes">The transcription uses all-caps to represent emphasis, so keep an eye open for any emphasized "I" instances that didn't get marked up correctly. The scan used in this production is of a copy that is warmly inscribed by Norris for Seymour Waterhouse, the manager of the Big Dipper mine in the Sierra Nevada mountains (and according to some online sources a college roommate of Norris). The Big Dipper is the location of some of the novel's action, and also where Norris stayed while writing parts of this story. There are also some pencil notes in the margin that identify some unnamed characters as Norris and Waterhouse.</meta>
-		<meta property="se:word-count">115958</meta>
+		<meta property="se:word-count">113384</meta>
 		<meta property="se:reading-ease.flesch">73.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/McTeague</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frank-norris_mcteague</meta>
