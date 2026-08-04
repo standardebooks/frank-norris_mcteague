@@ -59,7 +59,7 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008117510</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A San Francisco dentist and his wife descend into avarice, obsession, and violence.</dc:abstract>
+		<meta property="schema:abstract">A San Francisco dentist and his wife descend into avarice, obsession, and violence.</meta>
 		<dc:description>
 			&lt;p&gt;McTeague is an enormously strong but dim-witted former miner now working as a dentist in San Francisco towards the end of the nineteenth century. He falls in love with Trina, one of his patients, and shortly after their engagement she wins a large sum in a lottery. All is well until McTeague is betrayed and they fall into a life of increasing poverty and degradation.&lt;/p&gt;
 			&lt;p&gt;This novel is often presented as an example of American naturalism where the behavior and experience of characters are constrained by “nature”—both their own heredity nature, and the broader social environment.&lt;/p&gt;
